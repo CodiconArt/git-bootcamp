@@ -1,2 +1,2 @@
 # git-bootcamp
-My first git repository to pactice it work
+My first git repository to pactice how it work
